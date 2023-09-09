@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4E3dfHPw2fEw/kVCu4maiIVHytjmUyY1ma4CD2n3k3e/48H9ADozgEgs7UbqTdp8QmJFeLwuvGLK2x2uGbdThfh/8gD6PqTW9TgwoPsihbDmmsDwDzyfSF8VGKhRnlRWMXAYefgkG1gB2I4/C3wCZ7vwoIAGSgUj1g+VcqhX4qnDbfusNABuXKC6hNAAAx+0Lhio+e4mY2I29jZc1Cyx+e+Vn10QwumxC1muMIXqKhYoZmy93mQP67z6nfCBNV44PiakY8CPPbOCclBRzBOS681AKjKEar5iQL8jvwY3l9shzU84Esk3xgITrAKYMusKbWsBQC2bTSm5EC9EA9C5G8ld3hYmuq4L11PNnG6twRqiXglwE/wHcSUFoVHbXdWPeY/bV64wGS+3YyK1hWFzHmKNfKe7vUha8FwGzKReKOXmSEf3+VKQp/pq4qS/38/+EWsr2PPWVg21HJdksHbSjyn+FngVG9MDV3wdFqXeoW+XvC4kSr56pNX921q61Gx8= zeinix@ZR-SRIWIJAYA.local"
+        ]
+      }
+    ]
+  }
+}
